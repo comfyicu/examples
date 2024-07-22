@@ -4,6 +4,8 @@
 
 ComfyICU provides a robust REST API that allows you to seamlessly integrate and execute your custom ComfyUI workflows in production environments. Our API is designed to help developers focus on creating innovative AI experiences without the burden of managing GPU infrastructure.
 
+This repository contains working examples, sample code, and additional documentation to help you get the most out of the ComfyICU API.
+
 ## Getting Started
 
 First, you'll need to create an API key. You can do this from your [account settings](https://comfy.icu/account) page. Once you have your key, add it to your environment variable like so:
